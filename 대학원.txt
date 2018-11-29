@@ -1,0 +1,178 @@
+1. RINEX
+
+    GNSS data format   https://www.globalspec.com/reference/63106/203279/gps-data-formats
+
+    ftp://igs.org/pub/data/format
+       ftp://igs.org/pub/data/format/rinex303.pdf
+
+
+    Rinex 자료 받기 
+       www.gnssdata.org
+          미국 CORS  https://www.ngs.noaa.gov/CORS/standard1.shtml
+       www.ngii.go.kr 등   
+          미국 NGS    https://www.ngs.noaa.gov/OPUS/about.jsp
+
+       ftp://garner.ucsd.edu/pub/rinex
+       ftp://nfs.kasi.re.kr/gps/data/ 
+
+       Javad viewer  http://javad.com/jgnss/products/software/rinex_viewer.html 
+       https://www.navtechgps.com/the_gps_rinex_and_sp3_software_toolbox_for_matlab_/
+
+
+    IGS (BINEX  IONEX  MGEX 등)   
+       http://www.igs.org/
+       http://mgex.igs.org/
+       http://mgex.igs.org/
+
+    CDDIS  https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/RINEX_Version_3.html 
+
+    Compact rinex format   CRX2RNX  
+      http://gisgpsgeodesy.blogspot.com/2010/03/extracting-compact-rinex-format.html
+      http://read.pudn.com/downloads140/sourcecode/math/601526/crx2rnx.c__.htm
+      http://read.pudn.com/downloads140/sourcecode/windows/601527/rnx2crx.c__.htm
+      http://ftp.pecny.cz/ftp/pub/sw_3rdParty/RNXCMP/
+                                         
+    https://windows.podnova.com/trends/convert_rinex_2.11_to_2.10.html
+
+    NMEA   RTCM  Ntrip
+      http://software.rtcm-ntrip.org/wiki/STR  
+      https://www.scribd.com/document/118478603/RTCM-3-1
+      https://www.academia.edu/1470116/RTCM_3.1_Transformation_Messages_In_RTK_GNSS_Networks#
+      http://www.gpsinformation.org/dale/nmea.htm#GGA
+
+      Ntrip  http://www.igs-ip.net/home
+ 
+
+    GNSS calendar
+      http://webapp.geod.nrcan.gc.ca/geod/tools-outils/calendr.php
+
+    http://www.javad.com/jgnss/javad/news/pr20130125.html  
+
+
+2. TEQC 
+
+3. gLAB ; GNSS Lab Tool   
+    http://www.gage.es/drupal6/gLAB
+    http://www.gage.es/forum/gps-data-processing-code-and-phase-algorithms-techniques-and-recipes
+
+    https://www.gps-solutions.com/application/rtnet_qzss.php
+
+
+    BERNESE  http://www.bernese.unibe.ch/
+    GAMIT/GLOBK  http://geoweb.mit.edu/gg/
+         
+    Network - RTK
+     FKP 보조  http://www.cs.bham.ac.uk/~slb/courses/Graphics/gchap9.html
+
+4. BNC
+   https://igs.bkg.bund.de/ntrip/download
+   최신버젼  https://igs.bkg.bund.de/root_ftp//NTRIP/software/
+
+5. RTKLIB  
+   http://gpspp.sakura.ne.jp/rtklib/rtklib.htm
+
+ 
+   전리층 http://www.gpstk.org/bin/view/Documentation/HowToGenerateTECMaps
+   GPStk  http://www.gpstk.org/bin/view/Documentation/WebHome
+
+
+
+6. Ublox M8   
+    https://www.u-blox.com/en/product/neo-m8p-series
+    https://www.u-blox.com/en/product-resources?f[0]=property_file_product_filter%3A2688&f[1]=field_file_category%3A223&f[2]=property_file_product_filter%3A2706&f[3]=field_file_category%3A212&f[4]=field_file_category%3A221&f[5]=property_file_product_filter%3A2768
+    https://play.google.com/store/apps/details?id=gpsplus.rtkgps&hl=ja
+    https://lists.osgeo.org/pipermail/foss-gps/2015-April/001349.html
+
+7. PPP
+   http://gpsworld.com/7-free-alternatives-opus-post-processing-in-government-shutdown/
+   https://blog.ashgps.com/2013/10/02/7-free-alternatives-to-opus-gps-post-processing-during-u-s-federal-government-shutdown/
+   http://www.ga.gov.au/scientific-topics/positioning-navigation/geodesy/auspos
+
+   CNES  http://www.ppp-wizard.net/caster.html
+
+   CSRS-PPP: Canadian Spatial Reference System, Natural Resources Canada
+   AUSPOS: Geoscience Australia
+   GAPS: University of New Brunswick
+   APPS: Jet Propulsion Laboratory
+   SCOUT: Scripps Orbit and Permanent Array Center (SOPAC), University of California, San Diego
+   magicGNSS: GMV
+   CenterPoint RTX: Trimble Navigation
+
+
+8. GPS.gov
+    https://www.gps.gov/
+
+9. Books
+   Veripos  https://veripos.com/ 
+
+10. GNSS 상태 확인 
+    https://www.gnssplanning.com/#/settings
+
+11. Time 
+    http://stjarnhimlen.se/comp/time.html
+
+
+maxmax
+  https://www.maxmax.com/index.php
+  https://www.back-bone.ca/
+
+IJ   
+  https://imagej.nih.gov/ij/download.html
+
+SfM  
+  https://caiivg.weebly.com/structure-from-motion.html
+  http://www.lancaster.ac.uk/staff/jamesm/software/sfm_georef.htm
+  http://darkpgmr.tistory.com/131
+  https://openmvg.readthedocs.io/en/latest/software/SfM/SfM/
+
+  http://www.robots.ox.ac.uk/~vgg/hzbook/index.html
+
+
+VisualSfM   http://ccwu.me/vsfm/
+                https://www.di.ens.fr/pmvs/
+
+Computer Vision 
+  https://kr.mathworks.com/videos/computer-vision-system-toolbox-overview-61219.html
+  https://www.cse.unr.edu/~bebis/CS791E/
+  http://www.cse.psu.edu/~rtc12/CSE486/
+
+OpenCV   http://egloos.zum.com/newkong/v/4124254
+
+NDVI
+  https://blog.naver.com/gnitex/220509533137
+
+
+Thermal
+  https://www.flirkorea.com/
+  https://sites.google.com/site/electronicstechology/light---lens---ir---uv/yeolhwasangkamela-jonglyu
+
+
+UAS 기반 교량 안전진단 
+ https://www.infrastructurepc.com/concrete-crack-inspections/
+ https://www.kistec.or.kr/kistec/tech/tech0204.asp
+ https://blog.naver.com/hjstyle3535/220717194509
+ http://topconcare.com/en/hardware/aerial-mapping/falcon-8/
+
+Lens Calibration 
+  http://www.vision.caltech.edu/bouguetj/calib_doc/
+  https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_table_of_contents_calib3d/py_table_of_contents_calib3d.html
+  https://www.epaperpress.com/ptlens/lensCorrect.html 
+  https://helpx.adobe.com/lightroom/how-to/fix-lens-distortion-photo.html
+  https://dkor.wordpress.com/06-about-multimedia/image-processing/adobe-lens-profile-creator/
+  http://cmp.felk.cvut.cz/~svoboda/SelfCal/index.html
+  https://www.epaperpress.com/ptlens/
+  http://www.ee.oulu.fi/~jkannala/calibration/
+
+
+ICGEM
+  http://icgem.gfz-potsdam.de/home
+
+BIPM  https://www.bipm.org/en/about-us/
+
+운주사
+시흥 마애불
+교량 안전진단
+
+R 확률  https://blog.naver.com/jyc8618/220497144531
+https://blog.naver.com/jyc8618/220497144531
+ 
